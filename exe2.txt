@@ -3,3 +3,5 @@ Date : 2024-09-24
 깃허브 에서 수정
 
 This week : Git commands
+
+(plan1 branch에서 수정)
