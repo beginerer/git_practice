@@ -6,3 +6,5 @@ This week : Git commands
 
 (plan2에서 수정)
 (plan1 branch에서 수정)
+
+github에서 수정
